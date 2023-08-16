@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/drum-machine/static/css/main.1b8df654.css",
+    "main.js": "/drum-machine/static/js/main.43f1c831.js",
+    "static/js/787.c419f7a1.chunk.js": "/drum-machine/static/js/787.c419f7a1.chunk.js",
+    "static/media/Tom-Tom.mp3": "/drum-machine/static/media/Tom-Tom.6e1dbd5335230f1956c0.mp3",
+    "static/media/Floor Tom.mp3": "/drum-machine/static/media/Floor Tom.355220531b57fc385647.mp3",
+    "static/media/Ride Cymbal.mp3": "/drum-machine/static/media/Ride Cymbal.b5648ac2eb926e26f36d.mp3",
+    "static/media/Bass Drum.mp3": "/drum-machine/static/media/Bass Drum.674ffb84e48e35b2e49e.mp3",
+    "static/media/Snare Drum.mp3": "/drum-machine/static/media/Snare Drum.f7af3278139550dd6163.mp3",
+    "static/media/Hi Hat (foot).mp3": "/drum-machine/static/media/Hi Hat (foot).5a6b2e59de0c64f6ed29.mp3",
+    "static/media/Hi Hat.mp3": "/drum-machine/static/media/Hi Hat.2bcf43b66d81968fd620.mp3",
+    "static/media/Kick.mp3": "/drum-machine/static/media/Kick.72881f4bf80d341da208.mp3",
+    "static/media/Clap.mp3": "/drum-machine/static/media/Clap.faf5d12a1a4a7ffacf09.mp3",
+    "index.html": "/drum-machine/index.html",
+    "main.1b8df654.css.map": "/drum-machine/static/css/main.1b8df654.css.map",
+    "main.43f1c831.js.map": "/drum-machine/static/js/main.43f1c831.js.map",
+    "787.c419f7a1.chunk.js.map": "/drum-machine/static/js/787.c419f7a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b8df654.css",
+    "static/js/main.43f1c831.js"
+  ]
+}
